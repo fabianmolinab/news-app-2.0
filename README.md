@@ -1,27 +1,25 @@
-## Getting Started
+# News App
 
-First, run the development server:
+News App you can see all your news comfortably and fully customizable.
 
-# or
+## The process
 
-yarn dev
+### Features
 
-```
+### Tecnologies
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+- Next.js
+- Chakra UI
+- Jest and Library testing
+- Firebase
 
-## Learn More
+## Installation Steps:
 
-To learn more about Next.js, take a look at the following resources:
+1. Clone repository.
+2. Move to the project folder `cd ./news-app-2.0`
+3. Install dependencies `yarn -i`
+4. Run local server `yarn dev`
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## License:
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
-```
+This project is licensed under the MIT License
